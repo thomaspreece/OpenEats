@@ -3,3 +3,5 @@ ssl_certs
 DELETE_ME
 database_backups
 env_prod.list
+openeats-api
+openeats-nginx-ssl
