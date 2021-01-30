@@ -1,3 +1,6 @@
+# About 
+This deployment adds SSL to OpenEats' Docker deployment and also increases the image size that is uploadable via the UI to 100mb.
+
 # Running
 
 Start OpenEats:
